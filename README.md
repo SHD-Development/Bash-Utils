@@ -7,4 +7,4 @@ To use this script paste this command in to your terminal.
 
 If your network is unstable or just bad, you can use this command: 
 
-`bash <(curl https://raw.githubusercontent.com/owen0924-owen/Bash-Utils/main/main.sh)`
+`bash <(curl https://raw.githubusercontent.com/SHD-Cloud/Bash-Utils/main/main.sh)`
